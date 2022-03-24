@@ -22,10 +22,10 @@ body{
 	width: 60%;	
 } 
 #gnb li{
-	width: 25%;	
-	font-weight: bold;	
+	width: 25%;		
 	float: left;
-	padding-top: 80px;		
+	padding-top: 80px;
+	font-size: 17px;		
 }
 #banner{
 	width: 100%;
