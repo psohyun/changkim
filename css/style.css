@@ -11,8 +11,7 @@ body{
 #header{
 	width: 1320px;
 	height: 160px;
-	margin: 0 auto;
-	min-width: 1320px;
+	margin: 0 auto;	
 	}
 h1{
 	float: left;
